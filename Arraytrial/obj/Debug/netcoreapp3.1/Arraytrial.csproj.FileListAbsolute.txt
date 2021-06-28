@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\Arraytrial\Arraytrial\bin\Debug\netcoreapp3.1\Arraytrial.exe
+C:\Users\hp\source\repos\Arraytrial\Arraytrial\bin\Debug\netcoreapp3.1\Arraytrial.deps.json
+C:\Users\hp\source\repos\Arraytrial\Arraytrial\bin\Debug\netcoreapp3.1\Arraytrial.runtimeconfig.json
+C:\Users\hp\source\repos\Arraytrial\Arraytrial\bin\Debug\netcoreapp3.1\Arraytrial.runtimeconfig.dev.json
+C:\Users\hp\source\repos\Arraytrial\Arraytrial\bin\Debug\netcoreapp3.1\Arraytrial.dll
+C:\Users\hp\source\repos\Arraytrial\Arraytrial\bin\Debug\netcoreapp3.1\Arraytrial.pdb
+C:\Users\hp\source\repos\Arraytrial\Arraytrial\obj\Debug\netcoreapp3.1\Arraytrial.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Arraytrial\Arraytrial\obj\Debug\netcoreapp3.1\Arraytrial.AssemblyInfo.cs
+C:\Users\hp\source\repos\Arraytrial\Arraytrial\obj\Debug\netcoreapp3.1\Arraytrial.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Arraytrial\Arraytrial\obj\Debug\netcoreapp3.1\Arraytrial.dll
+C:\Users\hp\source\repos\Arraytrial\Arraytrial\obj\Debug\netcoreapp3.1\Arraytrial.pdb
+C:\Users\hp\source\repos\Arraytrial\Arraytrial\obj\Debug\netcoreapp3.1\Arraytrial.genruntimeconfig.cache
